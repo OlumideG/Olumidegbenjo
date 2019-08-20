@@ -31,7 +31,7 @@ h1{
  margin-top: 1em;
  border-style: solid;
  border-width: 3px;
- font-size: 2em;
+ font-size: 3em;
  color:  #CD5C5C;
 }
 
@@ -64,7 +64,7 @@ h1{
 }
 
 .socials{
-	margin: 70px;
+  margin: 70px;
   margin-left: 400px;
 }
 
@@ -76,5 +76,5 @@ h1{
 }
 
 .basic{
-  font-size: 3em;
+  font-size: 4em;
 }
